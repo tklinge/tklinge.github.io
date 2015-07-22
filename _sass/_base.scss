@@ -21,6 +21,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    text-shadow: 1px 1px 1px #222222
 }
 
 
@@ -82,6 +83,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     color: #EEEEEE;
+    text-shadow: 2px 2px 2px #222222
 }
 
 
@@ -94,11 +96,11 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $brand-color;
     }
 
     &:hover {
-        color: $text-color;
+        color: #D74D2B;
         text-decoration: underline;
     }
 }
