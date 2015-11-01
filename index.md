@@ -2,10 +2,12 @@
 layout: home-page
 ---
 
+![](/assets/titus-photo.jpg)
+
 # Contact Information
 
 Titus Klinge <br>
-Ph.D. student in [Computer Science](http://www.cs.iastate.edu/) <br>
+Ph.D. candidate in [Computer Science](http://www.cs.iastate.edu/) <br>
 [Laboratory for Molecular Programming](http://web.cs.iastate.edu/~lamp) <br>
 [Iowa State University](http://www.iastate.edu/) <br>
 [tklinge@iastate.edu](mailto://tklinge@iastate.edu) <br> 
@@ -13,9 +15,8 @@ Ph.D. student in [Computer Science](http://www.cs.iastate.edu/) <br>
 # Research Interests
 
 - Molecular Programming
-- Theory of Computation
-- Formal Verification and Model Checking
-- Computational Complexity
+- Theory of Computing
+- Formal Methods
 
 # Publications
 
